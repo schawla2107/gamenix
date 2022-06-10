@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Amerika';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Amerika'), url('https://fonts.cdnfonts.com/s/15/AMERIKA_.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Amerika Alternates';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Amerika Alternates'), url('https://fonts.cdnfonts.com/s/15/AMERIKAA.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Amerika Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Amerika Sans'), url('https://fonts.cdnfonts.com/s/15/AMERSN__.woff') format('woff');
+}
